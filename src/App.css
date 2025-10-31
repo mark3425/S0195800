@@ -1,0 +1,22 @@
+
+table tr:nth-child(odd) {
+    background: #b9b7b7;
+}
+
+table tr:nth-child(even) {
+    background: #fff;
+}
+#nav2{
+display:flex;
+}
+#nav1{
+   display: none; 
+}
+@media (min-width: 1024px) {
+#nav1{
+display:flex;
+}
+#nav2{
+   display: none; 
+}
+}
