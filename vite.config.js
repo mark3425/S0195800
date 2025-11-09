@@ -10,5 +10,5 @@ export default defineConfig({
       },
     }),
   ],
-  base: 's0196800'
+  base: '/s0195800/'
 })
